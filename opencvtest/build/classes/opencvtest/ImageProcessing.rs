@@ -1,0 +1,9 @@
+opencvtest.ImageProcessing
+org.fingerblox.fingerblox.ImageProcessing$1
+opencvtest.Thinning
+org.fingerblox.fingerblox.ImageProcessing
+opencvtest.Minutiae
+org.fingerblox.fingerblox.Thinning
+opencvtest.Minutiae$Type
+org.fingerblox.fingerblox.Minutiae$Type
+org.fingerblox.fingerblox.Minutiae

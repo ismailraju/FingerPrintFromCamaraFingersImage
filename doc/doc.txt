@@ -1,0 +1,4 @@
+Crop the essential part:  
+Equalize the cropped image:  
+Detect edges: 
+Apply SIFT:  
